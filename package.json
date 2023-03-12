@@ -1,0 +1,12 @@
+{
+  "name": "pruebas-para-pre-entrega-3-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "save": "sass --watch scss:css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
